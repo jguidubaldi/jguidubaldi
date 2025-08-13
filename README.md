@@ -1,4 +1,4 @@
-## Hi! 👋  
+## Hi there! 👋  
 **Joe Guidubaldi** — PhD Student, Vanderbilt University
 
 ![Location](https://img.shields.io/badge/Nashville,%20TN-6a8d73?style=flat&logo=map-pin&logoColor=ffffff)
